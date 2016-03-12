@@ -1,0 +1,64 @@
+    #NCNU{
+        position: absolute;
+        top: 8px;
+        left: 16px;
+    }
+    
+    body{
+        background-image: url(4b67da2f9715f_n.jpg);
+    }
+    
+    ul#menu {
+        padding: 0;
+        text-align:center;
+    }
+
+    ul#menu button {
+        background-color:rgb(135,155,235);
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 20px 20px 20px 20px;
+    }
+    
+    ul#menu button :hover {
+        background-color: purple;
+    }
+    
+    #title{
+        color:red;
+        font-family: verdana;
+        padding: 20px 0px;
+        text-align:center;
+    }
+    
+    article{
+        font-size: 100%;
+        margin:0px 30px;
+    }
+    
+    footer h2{
+        position:absolute;
+        left: 500px;
+    }
+    
+    footer audio{
+        position:absolute;
+        left:1000px;
+        bottom:30px;
+    }
+    
+    table{
+        position:absolute;
+        left:430px;
+        top:200px;
+        padding:10px;
+        text-align:center;
+        font-family: courier;
+    }
+    
+    table caption{
+        font-weight: bold;
+        font-family: verdana;
+        font-size: 40px;
+    }
